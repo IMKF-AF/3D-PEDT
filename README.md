@@ -1,4 +1,12 @@
 # 3D-PEDT
 
-Project of the TU Bergakademie Freiberg institute for...
-![3D-PEDT, extruder installed in the printer](Images/3D-PEDT_1.JPG)
+
+
+<p align="center">
+  <img src="Images/3D-PEDT_1.JPG" height="450">
+  <img src="Images/3D-PEDT_2.JPG" height="450">
+  <img src="Images/3D-PEDT_3.JPG" height="450">
+  <img src="Images/3D-PEDT_4.JPG" height="590">
+</p>
+
+A project of the Institute for Machine Elements, Egineering Design and Manufacturing, TU Bergakademie Freiberg, Germany
